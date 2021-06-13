@@ -1,2 +1,2 @@
 # Desktop-application
-**My application is a psychological test**
+**My application** *is a psychological test*
